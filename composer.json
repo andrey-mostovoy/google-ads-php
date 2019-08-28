@@ -1,10 +1,10 @@
 {
-  "name": "googleads/google-ads-php",
+  "name": "andrey-mostovoy/google-ads-php",
   "author": "Google LLC",
   "url": "https://github.com/googleads/google-ads-php",
   "description": "Google Ads API client for PHP",
   "require": {
-    "php": ">=7.1",
+    "php": ">=7.0",
     "google/gax": "^1.0.2",
     "ulrichsg/getopt-php": "^3.2.2",
     "monolog/monolog": "^1.23.0"
